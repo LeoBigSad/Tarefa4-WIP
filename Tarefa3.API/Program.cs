@@ -12,7 +12,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddTransient<IPersonService, PersonService>();
 builder.Services.AddScoped<IPersonService, PersonService>();
-    
+
+builder.Services.AddHttpClient<RickAndMortyService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -86,10 +86,22 @@
           }
         }
       },
+      "Tarefa3.Data.Rest/1.0.0": {
+        "dependencies": {
+          "RestSharp": "112.1.0"
+        },
+        "runtime": {
+          "Tarefa3.Data.Rest.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Tarefa3.Domain/1.0.0": {
         "dependencies": {
           "Microsoft.OpenApi": "1.2.3",
-          "RestSharp": "112.1.0"
+          "RestSharp": "112.1.0",
+          "Tarefa3.Data.Rest": "1.0.0"
         },
         "runtime": {
           "Tarefa3.Domain.dll": {
@@ -156,6 +168,11 @@
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
     },
     "Tarefa3.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tarefa3.Data.Rest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

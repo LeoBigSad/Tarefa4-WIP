@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.API\\Tarefa3.API.csproj": {}
+    "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.API\\Tarefa3.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.API\\Tarefa3.API.csproj": {
+    "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.API\\Tarefa3.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.API\\Tarefa3.API.csproj",
+        "projectUniqueName": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.API\\Tarefa3.API.csproj",
         "projectName": "Tarefa3.API",
-        "projectPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.API\\Tarefa3.API.csproj",
-        "packagesPath": "C:\\Users\\Avest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.API\\obj\\",
+        "projectPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.API\\Tarefa3.API.csproj",
+        "packagesPath": "C:\\Users\\leozi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Avest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Application\\Tarefa3.Application.csproj": {
-                "projectPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Application\\Tarefa3.Application.csproj"
+              "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Application\\Tarefa3.Application.csproj": {
+                "projectPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Application\\Tarefa3.Application.csproj"
               },
-              "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\Tarefa3.Domain.csproj": {
-                "projectPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\Tarefa3.Domain.csproj"
+              "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Domain\\Tarefa3.Domain.csproj": {
+                "projectPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Domain\\Tarefa3.Domain.csproj"
               }
             }
           }
@@ -93,20 +93,20 @@
         }
       }
     },
-    "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Application\\Tarefa3.Application.csproj": {
+    "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Application\\Tarefa3.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Application\\Tarefa3.Application.csproj",
+        "projectUniqueName": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Application\\Tarefa3.Application.csproj",
         "projectName": "Tarefa3.Application",
-        "projectPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Application\\Tarefa3.Application.csproj",
-        "packagesPath": "C:\\Users\\Avest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Application\\obj\\",
+        "projectPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Application\\Tarefa3.Application.csproj",
+        "packagesPath": "C:\\Users\\leozi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Avest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,8 +121,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\Tarefa3.Domain.csproj": {
-                "projectPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\Tarefa3.Domain.csproj"
+              "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Domain\\Tarefa3.Domain.csproj": {
+                "projectPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Domain\\Tarefa3.Domain.csproj"
               }
             }
           }
@@ -172,20 +172,20 @@
         }
       }
     },
-    "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\Tarefa3.Domain.csproj": {
+    "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Data.Rest\\Tarefa3.Data.Rest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\Tarefa3.Domain.csproj",
-        "projectName": "Tarefa3.Domain",
-        "projectPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\Tarefa3.Domain.csproj",
-        "packagesPath": "C:\\Users\\Avest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\obj\\",
+        "projectUniqueName": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Data.Rest\\Tarefa3.Data.Rest.csproj",
+        "projectName": "Tarefa3.Data.Rest",
+        "projectPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Data.Rest\\Tarefa3.Data.Rest.csproj",
+        "packagesPath": "C:\\Users\\leozi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Data.Rest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Avest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -200,6 +200,81 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Domain\\Tarefa3.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Domain\\Tarefa3.Domain.csproj",
+        "projectName": "Tarefa3.Domain",
+        "projectPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Domain\\Tarefa3.Domain.csproj",
+        "packagesPath": "C:\\Users\\leozi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\leozi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Data.Rest\\Tarefa3.Data.Rest.csproj": {
+                "projectPath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Data.Rest\\Tarefa3.Data.Rest.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

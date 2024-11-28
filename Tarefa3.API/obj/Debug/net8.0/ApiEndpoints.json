@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Tarefa3.API.Controllers.CharacterController",
+    "Method": "GetCharacter",
+    "RelativePath": "api/Character/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Tarefa3.API.Controllers.PersonController",
     "Method": "GetAddressByPersonId",
     "RelativePath": "api/Person/{id}/address",
