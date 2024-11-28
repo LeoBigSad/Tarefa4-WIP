@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "itf2rz7qimo=",
+  "dgSpecHash": "OyRbp829FBM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Application\\Tarefa3.Application.csproj",
+  "projectFilePath": "C:\\Users\\leozi\\source\\repos\\Tarefa4-WIP\\Tarefa3.Application\\Tarefa3.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Avest\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Avest\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+    "C:\\Users\\leozi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\leozi\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
   ],
   "logs": []
 }
