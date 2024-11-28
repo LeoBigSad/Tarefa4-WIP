@@ -9,7 +9,8 @@
       "Tarefa3.Domain/1.0.0": {
         "dependencies": {
           "Microsoft.OpenApi": "1.2.3",
-          "RestSharp": "112.1.0"
+          "RestSharp": "112.1.0",
+          "Tarefa3.Data.Rest": "1.0.0"
         },
         "runtime": {
           "Tarefa3.Domain.dll": {}
@@ -28,6 +29,17 @@
           "lib/net8.0/RestSharp.dll": {
             "assemblyVersion": "112.1.0.0",
             "fileVersion": "112.1.0.0"
+          }
+        }
+      },
+      "Tarefa3.Data.Rest/1.0.0": {
+        "dependencies": {
+          "RestSharp": "112.1.0"
+        },
+        "runtime": {
+          "Tarefa3.Data.Rest.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -52,6 +64,11 @@
       "sha512": "sha512-bOUGNZqhhv/QeCXHTKEUil846yBjwWXpzPKjO67kFvaAOoF361z7jLY5BMnuZ6WD2WQRA750sNMcK7MSPCQ5Mg==",
       "path": "restsharp/112.1.0",
       "hashPath": "restsharp.112.1.0.nupkg.sha512"
+    },
+    "Tarefa3.Data.Rest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
